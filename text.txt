@@ -1,2 +1,3 @@
 line 1
 text for branch1
+new text
